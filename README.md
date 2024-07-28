@@ -1,6 +1,6 @@
 # 2024-AmNat-FS-BGF
 
-# Stability of the Species’ Range Limits Set by Interspecific Competition
+# Stability of Species’ Range Limits Set by Interspecific Competition
 
 This repository contains MATLAB codes used in the article:
 

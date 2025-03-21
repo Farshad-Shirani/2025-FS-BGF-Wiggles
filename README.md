@@ -33,4 +33,4 @@ These MATLAB codes numerically compute solutions of systems of partial different
 
 - The code in the folder `Climate Change_Upslope` is associated with Figures 4 and 5 in the paper.
 
-- The code in the folder `Climate Change_Downstreem` is associated with Figure 6 in the paper.
+- The code in the folder `Climate Change_Downslope` is associated with Figure 6 in the paper.

@@ -1,10 +1,10 @@
 # 2025-AmNat-FS-BGF
 
-# Environmental ``Knees'' and ``Wiggles'' as Stabilizers of Species Range Limits Set by Interspecific Competition
+# Environmental "Knees" and "Wiggles" as Stabilizers of Species Range Limits Set by Interspecific Competition
 
 This repository contains MATLAB codes used in the article:
 
-"Environmental “Wiggles” as Stabilizers of Species Range Limits Set by Interspecific Competition"
+"Environmental “Knees” and “Wiggles” as Stabilizers of Species Range Limits Set by Interspecific Competition"
 
 All codes are written in MATLAB R2024b.
 

@@ -1,4 +1,4 @@
-# 2025-AmNat-FS-BGF
+# 2025-FS-BGF-Wiggles
 
 # Environmental "Knees" and "Wiggles" as Stabilizers of Species Range Limits Set by Interspecific Competition
 

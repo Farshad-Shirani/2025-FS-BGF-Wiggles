@@ -1,6 +1,6 @@
 # 2025-FS-BGF-Wiggles
 
-# Environmental "Knees" and "Wiggles" as Stabilizers of Species Range Limits Set by Interspecific Competition
+# Environmental "Knees" and "Wiggles" as Strong Stabilizers of Species Range Limits Set by Interspecific Competition
 
 This repository contains MATLAB codes used in the article:
 
